@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Check out the live demo [here](https://tidkeashok007.github.io/html-css-js-vipra_homes/).
+Check out the live demo [here](https://tidkeashok007.github.io/vipra-final/).
 
 # VIPRA Homes Project
 
